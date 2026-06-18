@@ -31,7 +31,7 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/todo-list-web-app.git
+git clone https://github.com/Krishan1155/synent-task5-To-Do-List-Web-App-Krishan-Patel.git
 
 2. Open the project folder
 
